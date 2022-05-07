@@ -1,13 +1,22 @@
 # ePortfolio
-Evidence is provided here of the following objectives:
+Evidence demonstrating each of the learning outcomes for this unit:
 1. Explain communication concepts and strategies     
-   - Add evidence here.
-2. Show confidence and skills in oral communications and presentations
-   - Add evidence here. 
-3. Work effectively as part of a team
-   - Add evidence here. 
-4. Communicate effectively in a professional context
-   - Cowrote a [requirements specification](Awesome%20report.docx) for a university systems analysis course.
-5. Define and demonstrate conflict management and resolution strategies.
-   - Add evidence here.
+   - Week 2 lecture slides focused on interpersonal (verbal and non-verbal) communication
 
+2. Show confidence and skills in oral communications and presentations
+   - Gave presentation (in class) on Assistive technology for the elderly in the context of Finland.
+   - Partook in "Facts vs Opinions" activity 
+
+
+3. Work effectively as part of a team
+   - Collaborated with fellow classmates to complete the "Mob Writing" activity
+
+
+4. Communicate effectively in a professional context
+   - Week 3 lecture slides explored how to write a professional report
+   - Week 6 lecture slides reiterated this with formal referencing and presentation formatting. 
+
+
+5. Define and demonstrate conflict management and resolution strategies.
+   - Completed the week 4 "Conflict roleplay" activity. 
+   - Week 2 lecture slides, looked at conflict management stratergies
