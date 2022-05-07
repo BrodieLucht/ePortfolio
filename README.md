@@ -14,7 +14,7 @@ Evidence demonstrating each of the learning outcomes for this unit:
 
 4. Communicate effectively in a professional context
    - Week 3 lecture slides explored how to write a professional report
-   - Week 6 lecture slides reiterated this with formal referencing and presentation formatting. 
+   - Attended ALC session on referencing correctly using Harvard style.
 
 
 5. Define and demonstrate conflict management and resolution strategies.
