@@ -2,7 +2,7 @@
 Evidence demonstrating each of the learning outcomes for this unit:
 1. Explain communication concepts and strategies     
    - Verbal vs Nonverbal Communication
-   !(verbal_vs_nonverbal.jpeg)
+   ![](verbal_vs_nonverbal.jpeg)
 
 
 2. Show confidence and skills in oral communications and presentations
