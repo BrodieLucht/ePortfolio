@@ -16,7 +16,7 @@ Evidence demonstrating each of the learning outcomes for this unit:
 
 4. Communicate effectively in a professional context
    - Created a [presentation](Assistive%20Technology.pptx) on Assistive technology for the elderly in the context of Finland.
-   - Wrote a [research assignment](Research_Task.docx) on the limitation of ring particle accelerators.
+   - Wrote a [research assignment](Research_Task.docx) on the limitation of ring particle accelerators, for grade 12 physics.
 
 
 5. Define and demonstrate conflict management and resolution strategies.
