@@ -6,7 +6,7 @@ Evidence demonstrating each of the learning outcomes for this unit:
 
 
 2. Show confidence and skills in oral communications and presentations
-   - Gave [presentation](Assistive%20Technology.pptx) (in class) on Assistive technology for the elderly in the context of Finland.
+   - Gave [presentation](Assistive%20Technology.pptx) in person on Assistive technology for the elderly in the context of Finland.
    - Partook in [Facts vs Opinions](A1%20Fact%20Oppinions.docx) activity 
 
 
