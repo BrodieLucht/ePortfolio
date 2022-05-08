@@ -2,7 +2,7 @@
 Evidence demonstrating each of the learning outcomes for this unit:
 1. Explain communication concepts and strategies     
    - Partook the [Facts vs Opinions](A1%20Fact%20Oppinions.docx) activity, designed to demonstrate the importance of communication and listening stratergies.
-   - [Wrote a scipt with gesture plan](Draft_script&Gesture_plan.docx), for a presentation I gave on Assistive technology for the elderly in the context of Finland.
+   - Wrote a [scipt with gesture plan](Draft_script&Gesture_plan.docx), for a presentation I gave on Assistive technology for the elderly in the context of Finland.
 
 
 2. Show confidence and skills in oral communications and presentations
