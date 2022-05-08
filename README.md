@@ -6,18 +6,18 @@ Evidence demonstrating each of the learning outcomes for this unit:
 
 
 2. Show confidence and skills in oral communications and presentations
-   - Gave [presentation]() (in class) on Assistive technology for the elderly in the context of Finland.
+   - Gave [presentation](Assistive%20Technology.pptx) (in class) on Assistive technology for the elderly in the context of Finland.
    - Partook in [Facts vs Opinions] activity 
 
 
 3. Work effectively as part of a team
-   - Worked with fellow classmates to complete the [Mob Writing]() activity
+   - Worked with fellow classmates to complete the [Mob Writing](Week6%20Mob%20Writing.docx) activity
 
 
 4. Communicate effectively in a professional context
-   - Created a [presentation]() on Assistive technology for the elderly in the context of Finland.
+   - Created a [presentation](Assistive%20Technology.pptx) on Assistive technology for the elderly in the context of Finland.
 
 
 5. Define and demonstrate conflict management and resolution strategies.
-   - Partook in [Conflict Roleplay]() activity
+   - Partook in [Conflict Roleplay](Week5%20Conflict%20Senario.docx) activity
    - 
