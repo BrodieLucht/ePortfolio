@@ -20,5 +20,5 @@ Evidence is provided here, demonstrating each of the learning objectives for thi
 
 
 5. Define and demonstrate conflict management and resolution strategies.
-   - Partook in [Conflict Roleplay](Week5%20Conflict%20Senario.docx) activity
+   - Partook in [Conflict Roleplay](Week5%20Conflict%20Senario.docx) senerios
  
