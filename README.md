@@ -7,7 +7,7 @@ Evidence is provided here, demonstrating each of the learning objectives for thi
 
 2. Show confidence and skills in oral communications and presentations
    - Partook in [Facts vs Opinions](A1%20Fact%20Oppinions.docx) activity 
-   - Gave [presentation](Assistive%20Technology.pptx) in person on Assistive technology for the elderly in the context of Finland.
+   - Gave [presentation](Assistive%20Technology.pptx), in person, on Assistive technology for the elderly in the context of Finland.
 
 
 3. Work effectively as part of a team
